@@ -100,6 +100,16 @@ export class PortfolioService {
       company: 'Cognizant',
       address: 'Hyderabad, Telangana, India'
     },
+    {
+      id: 3,
+      role: 'Full Stack Developer',
+      designation: 'Software Engineer',
+      sDate: 'Jan 2019',
+      eDate: 'Dec 2019',
+      empType: 'Full-Time',
+      company: 'TechnostormR Consulting Services',
+      address: 'Hyderabad, Telangana, India'
+    },
   ];
 
   educationDetails: any = [
