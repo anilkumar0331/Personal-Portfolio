@@ -249,7 +249,7 @@ export class PortfolioService {
       {
         id: 1,
         name: 'Tableau',
-        logo: 'https://www.svgrepo.com/show/354428/tableau-icon.svg'
+        logo: 'assets/images/tableau-svgrepo-com.svg'
       },
       {
         id: 2,
@@ -298,16 +298,21 @@ export class PortfolioService {
       },
       {
         id: 11,
+        name: 'IntelliJ',
+        logo: 'https://www.svgrepo.com/show/452236/jb-intellij-idea.svg'
+      },
+      {
+        id: 12,
         name: 'Postman',
         logo: 'https://www.svgrepo.com/show/354202/postman-icon.svg'
       },
       {
-        id: 12,
+        id: 13,
         name: 'Jupyter',
         logo: 'assets/images/jupyter-svgrepo-com.svg'
       },
       {
-        id: 13,
+        id: 14,
         name: 'RStudio',
         logo: 'assets/images/RStudio-Logo-flat.svg'
       }
