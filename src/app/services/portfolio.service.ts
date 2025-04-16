@@ -84,7 +84,7 @@ export class PortfolioService {
       id: 1,
       role: 'Full Stack Developer',
       designation: 'Software Developer',
-      sDate: 'June 2023',
+      sDate: 'July 2024',
       eDate: 'Present',
       empType: '',
       company: 'PNC Bank',
